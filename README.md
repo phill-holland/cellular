@@ -1,6 +1,4 @@
-Cellular Automation C++ Implementation
-
--------------------------------------+
+CELLULAR AUTOMATION C++ IMPLEMENTATION
 
 Based on Wolfram's a "A New Kind of Science" research.
 
