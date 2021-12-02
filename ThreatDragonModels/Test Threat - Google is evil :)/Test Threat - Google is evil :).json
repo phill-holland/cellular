@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Test Threat - Google is evil :)",
+    "owner": "Me"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threats",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Chris"
+  }
+}
