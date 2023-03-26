@@ -35,6 +35,7 @@ log.txt
 
 exec
 
+/**/build/**/*
 /**/.vs/**/*
 /**/debug/**/*
 /**/release/**/*
